@@ -49,6 +49,6 @@ public class EventServiceTest {
         assertThat(savedEvent.getTitle()).isEqualTo("Miaou");
         assertThat(savedEvent.getDescription()).isEqualTo("Quel beau chat!");
 
-        System.out.println("Test réussi : l'événement a été correctement ajouté.");
+        System.out.println("Test réussi");
     }
 }
