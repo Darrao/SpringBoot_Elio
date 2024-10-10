@@ -1,0 +1,9 @@
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/entity/Category.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/repository/EventRepository.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/service/EventService.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/controller/EventController.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/repository/LocationRepository.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/repository/CategoryRepository.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/entity/Event.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/entity/Location.java
+/Users/Darrao/IdeaProjects/event-management/src/main/java/com/example/event_management/EventManagementApplication.java
