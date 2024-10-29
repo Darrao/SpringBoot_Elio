@@ -4,8 +4,8 @@ services:
     container_name: postgres-event-management
     environment:
       POSTGRES_DB: event_db
-      POSTGRES_USER: admin
-      POSTGRES_PASSWORD: password
+      POSTGRES_USER: Miaouadmin
+      POSTGRES_PASSWORD: MiaouMinoupassword
     ports:
       - "5432:5432"
     volumes:
