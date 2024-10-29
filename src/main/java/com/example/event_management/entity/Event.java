@@ -1,6 +1,6 @@
 package com.example.event_management.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.LocalDate;
 
 @Entity
